@@ -5,9 +5,7 @@
 - 📫 Pergunte-me sobre JAVASCRIPT
 - ❤️ Me apaixonando cada vez mais por programação
 
-- <img align="center" alt="javascript" height="30" width="40"
-
-src="https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green">
+<img align="center" alt="javascript" height="30" width="40" src="https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green">
 
 
 
