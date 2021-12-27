@@ -5,6 +5,7 @@
 - 📫 Pergunte-me sobre JAVASCRIPT
 - ❤️ Me apaixonando cada vez mais por programação
 <div>
+  <a href="https://github.com/Samuelsnd">
 <img align="center" alt="javascript" height="30" width="40" src="https://github-readme-stats.vercel.app/api?username={Samuel}&theme=blue-green">
 </div>
 
