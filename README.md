@@ -4,9 +4,9 @@
 - 💞️ Fique a vontade para ver meus projetos https://github.com/Samuelsnd
 - 📫 Pergunte-me sobre JAVASCRIPT
 - ❤️ Me apaixonando cada vez mais por programação
-
+<div>
 <img align="center" alt="javascript" height="30" width="40" src="https://github-readme-stats.vercel.app/api?username={Samuel}&theme=blue-green">
-
+</div>
 
 
 
