@@ -9,7 +9,7 @@
 
 - 💬 Pergunte-me sobre **Java e React**
 
-- 📫 Contato E-mail : **samueldasilvanonato6530@gmail.com**
+- 📫 Contato Gmail : **samueldasilvanonato6530@gmail.com**
 
 - 📄 Sobre mim Linkedin : [https://www.linkedin.com/in/samuel-silva-dos-santos-nonato](https://www.linkedin.com/in/samuel-silva-dos-santos-nonato)
 
