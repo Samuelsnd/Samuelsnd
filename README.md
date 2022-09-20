@@ -11,7 +11,7 @@
 
 - 📫 Contato : **samueldasilvanonato6530@gmail.com**
 
-- 📄 Sobre mim Linkedin : [samueldasilva9211@gmail.com](samueldasilva9211@gmail.com)
+- 📄 Sobre mim Linkedin : [https://www.linkedin.com/in/samuel-silva-dos-santos-nonato)
 
 - ⚡ Habilidades : **Tenho fácil aprendizado e gosto muito de trabalho em equipe.**
 
