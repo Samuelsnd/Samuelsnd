@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelsnd&label=Profile%20views&color=0e75b6&style=flat" alt="samuelsnd" /> </p>
 
-- 🔭 No momento estou estudando [Java POO, Spring Boot, HTML e Javascript(Framework)](https://github.com/Samuelsnd)
+- 🔭 No momento estou estudando [Java POO, Spring Boot, HTML e Javascript(Angular)](https://github.com/Samuelsnd)
 
 - 👯 Pretendo atuar como **Desenvolvedor Web Java**
 
