@@ -7,7 +7,7 @@
 
 - 👯 Pretendo atuar como **Desenvolvedor Web Java**
 
-- 💬 Pergunte-me sobre **Java e React**
+- 💬 Pergunte-me sobre **Java e Angular**
 
 - 📫 Contato Gmail : **samueldasilvanonato6530@gmail.com**
 
